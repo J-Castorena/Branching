@@ -11,6 +11,7 @@
 * `git log --online` -list commit history (compacted)
 
 ### Branch commands
-* `git branch` -list local branches, highlight current
+* `git branch` -list local branches, highlight current branch
 * `git branchName` - create branch `branchName`
 * `git branchName` - switch to branch `branchName`
+* `git checkout -b otherBranch` - switch to branch `otherBranch` creating it if it doesn't exist
