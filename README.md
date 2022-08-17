@@ -9,3 +9,8 @@
 * `git status` - shows status of current working directory
 * `git log` -list commit history
 * `git log --online` -list commit history (compacted)
+
+### Branch commands
+* `git branch` -list local branches, highlight current
+* `git branchName` - create branch `branchName`
+* `git branchName` - switch to branch `branchName`
